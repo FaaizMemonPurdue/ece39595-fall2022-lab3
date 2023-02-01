@@ -7,3 +7,8 @@ Con 2) Often requires more meetings than devs feel is necessary
 Q2: 
 In a broad sense, Product Owners are more big-picture setting general direction and such,
 while Scrum Master handles more day-to-day like Jira administration and overseeing the scrum meetings.
+
+Q3: 
+Sprint planning - Determine specific tasks within scope, assign storypoints and responsible developers
+Daily Standup - Discuss completions, today's goals, blockers
+Retrospective - Discuss completions, move incompletes to backlog
