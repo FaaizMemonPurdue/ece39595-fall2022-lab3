@@ -1,0 +1,5 @@
+Q1: 
+Pro 1) Allows continual communication for higher client satisfaction throughout
+Pro 2) Creates deliverables sooner
+Con 1) Less applicable for software with rigid requirements (e.g. embedded device code)
+Con 2) Often requires more meetings than devs feel is necessary
