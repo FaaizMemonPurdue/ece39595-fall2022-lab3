@@ -12,3 +12,9 @@ Q3:
 Sprint planning - Determine specific tasks within scope, assign storypoints and responsible developers
 Daily Standup - Discuss completions, today's goals, blockers
 Retrospective - Discuss completions, move incompletes to backlog
+
+Q4:
+Epic - Large body to be broken down
+Story - Requirement described in a few sentences
+Task - Issues that don't create deliverable new feature
+Bug - Issue to resolve failure
