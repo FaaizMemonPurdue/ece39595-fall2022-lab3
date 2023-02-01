@@ -3,3 +3,7 @@ Pro 1) Allows continual communication for higher client satisfaction throughout
 Pro 2) Creates deliverables sooner
 Con 1) Less applicable for software with rigid requirements (e.g. embedded device code)
 Con 2) Often requires more meetings than devs feel is necessary
+
+Q2: 
+In a broad sense, Product Owners are more big-picture setting general direction and such,
+while Scrum Master handles more day-to-day like Jira administration and overseeing the scrum meetings.
